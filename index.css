@@ -1,0 +1,19 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: beige;
+}
+.container{
+    height: 100%;
+    background-color: bisque;
+    justify-content: space-around;
+    font-size: 28px;
+    padding:70px;
+    margin-left: 10px;
+    display: flex;
+    box-shadow: 0 20 25px  rgba(red, green, blue, alpha);
+   
+}
